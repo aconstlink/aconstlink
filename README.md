@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Accidentally discovered this feature. Very nice!
+:boom: Accidentally discovered this feature. Very nice! :sparkles:
 
-🎉 Currently very busy with my kids, so there will be just low frequency updates. 🔒
+🎉 Currently very busy with my kids, so there will be just low frequency updates. :dizzy:
 
 <!--
 **aconstlink/aconstlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
