@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Accidentally discovered this feature. Very nice!
+
+🎉 Currently very busy with my kids, so there will be just low frequency updates. 🔒
+
 <!--
 **aconstlink/aconstlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
