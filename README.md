@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there, I am Alex 👋
 
-:boom: Accidentally discovered this feature. Very nice! :sparkles:
+🎉🎉 This is my Github page where you will find all my endeavors into programming.
 
-🎉 Currently very busy with my kids, so there will be just low frequency updates. :dizzy:
+I am mainly working on real-time audio/visual [demos](https://github.com/aconstlink/motor_demos) :zap: using my real-time 2d/3d game engine [motor](https://github.com/aconstlink/motor). :construction_worker:
+
+I do successless :dizzy: but regular streaming :boom: over at [Twitch](https://www.twitch.tv/aconstlink) in case you would like to follow the progression. :sparkles:
+
 
 <!--
 **aconstlink/aconstlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
