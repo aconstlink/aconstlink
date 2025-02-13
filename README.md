@@ -4,7 +4,7 @@
 
 I am mainly working on real-time audio/visual [demos](https://github.com/aconstlink/motor_demos) :zap: using my real-time 2d/3d game engine [motor](https://github.com/aconstlink/motor). :construction_worker:
 
-I do successless :dizzy: but regular streaming :boom: over at [Twitch](https://www.twitch.tv/aconstlink) in case you would like to follow the progression. :sparkles:
+I do successless :dizzy: but regular streaming :boom: at [Twitch](https://www.twitch.tv/aconstlink) or [YouTube](https://www.youtube.com/@aconstlink) in case you would like to follow the progression. :sparkles:
 
 
 <!--
