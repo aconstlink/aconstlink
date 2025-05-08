@@ -2,10 +2,6 @@
 
 🎉🎉 This is my Github page where you will find all my endeavors into programming.
 
-I am mainly working on real-time audio/visual [demos](https://github.com/aconstlink/motor_demos) :zap: using my real-time 2d/3d game engine [motor](https://github.com/aconstlink/motor). :construction_worker:
-
-I do successless :dizzy: but regular streaming :boom: at [Twitch](https://www.twitch.tv/aconstlink) or [YouTube](https://www.youtube.com/@aconstlink) in case you would like to follow the progression. :sparkles:
-
 
 <!--
 **aconstlink/aconstlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
