@@ -1,6 +1,8 @@
 ## Hi there, I am Alex 👋
 
-🎉🎉 This is my Github page where you will find all my endeavors into programming.
+🎉🎉 This is my Github page where you will find all my endeavors into my software projects.
+
+I used to work professionally as a software developer but since my first child was born, thinks went south programming wise. But I try to code as much as possible during the time I have a day and share things here! 
 
 
 <!--
