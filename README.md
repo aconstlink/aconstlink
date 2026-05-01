@@ -1,22 +1,37 @@
-## Hi there, I am Alex 👋
+## Hi, I'm Alex 👋
 
-🎉🎉 This is my Github page where you will find all my endeavors into my software projects.
+I’m a C++ developer focused on real-time systems, rendering, and engine architecture.
 
-I used to work professionally as a software developer. Since my first child was born and a few shattered dreams downstream, things went south programming wise. But I try to code as much as possible during the time I have a day and share things here! 
+I build my own engine and runtime systems to explore performance, control, and system design beyond typical application development.
 
-I need to take a little break for some time. The kids are demanding a little bit more time... 
+---
 
-<!--
-**aconstlink/aconstlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 What I work on
 
-Here are some ideas to get you started:
+* Real-time rendering (OpenGL / DirectX)
+* Custom engine architecture
+* Memory and resource management
+* Job systems and runtime design
+* Tooling and iteration workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current focus
+
+I’m actively working on a real-time demo built on top of my engine, showcasing:
+
+* shader hot-reloading
+* async resource streaming
+* multi-backend rendering
+
+---
+
+### 🧠 About me
+
+I’ve spent many years building software systems professionally and privately, with a strong focus on solving complex problems and understanding systems deeply.
+
+---
+
+### 📌 Note
+
+I’m currently balancing development with family life, so progress may vary — but I continuously work on my projects and share them here.
