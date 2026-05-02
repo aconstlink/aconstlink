@@ -13,6 +13,7 @@ I build my own engine and runtime systems to explore performance, control, and s
 * Memory and resource management
 * Job systems and runtime design
 * Tooling and iteration workflows
+* and many more
 
 ---
 
