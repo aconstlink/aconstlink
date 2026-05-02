@@ -14,13 +14,13 @@ I build my own engine and runtime systems to explore performance, control, and s
 * Job systems and runtime design
 * Tooling and iteration workflows
 
-* **Engine development** → [motor](https://github.com/aconstlink/motor)
+* **Engine development** → [motor](https://github.com/aconstlink/motor)  
   Custom C++ real-time engine focused on rendering, runtime systems, and architecture
 
-* **Engine test & usage scenarios** → [motor_suites](https://github.com/aconstlink/motor_suites)
+* **Engine test & usage scenarios** → [motor_suites](https://github.com/aconstlink/motor_suites)  
   Collection of test cases and sample applications used to validate features and workflows
 
-* **Real-time demos** → [motor_demos](https://github.com/aconstlink/motor_demos)
+* **Real-time demos** → [motor_demos](https://github.com/aconstlink/motor_demos)  
   Demo projects showcasing rendering, systems, and real-time techniques built on the engine
 
 
