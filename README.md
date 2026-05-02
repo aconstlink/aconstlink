@@ -16,7 +16,7 @@ I build my own engine and runtime systems to explore performance, control, and s
 
 ---
 
-### 🚀 Projects
+### 🧩 Projects
 
 * **Engine development** → [motor](https://github.com/aconstlink/motor)  
   Custom C++ real-time engine focused on rendering, runtime systems, and architecture
